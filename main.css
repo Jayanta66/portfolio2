@@ -1,0 +1,301 @@
+* {
+	
+	
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+body {
+	
+	width: 100%;
+	
+	height: 150vh;
+/*	background-image: url("21stcentury3.jpg"); 
+	background-size: cover;
+	background-attachment: fixed;
+
+	
+
+*/
+
+	
+}
+
+
+header {
+	
+	
+	width: 100%;
+	
+	height: 100px;
+/*	border: 3px solid red; */
+
+position: fixed;
+display: flex;
+
+justify-content: space-between;
+	background-color: white;
+	
+	
+}
+
+
+
+
+h1 {
+	
+	
+	font-size: 2rem;
+	
+	color: #ff00f7;
+	
+	
+	}
+#aa {
+	width: 500px;
+	
+	height: 100px;
+/*	border: 1px solid red;	*/
+	display: flex;
+	
+	justify-content: center;
+	
+		align-items: center;
+		
+
+
+}	
+	
+	
+#b {
+	
+	
+	width: 1000px;
+	
+	height: 100px;
+/*	border: 3px solid red; */
+	
+	
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+
+
+
+
+#c {
+	
+	
+	width: 100px;
+	
+	height: 20px;
+/*	border: 3px solid red; */
+	
+	
+
+
+
+	
+	
+
+}
+
+
+
+a {
+	width: 100px;
+	
+	height: 20px;
+	font-size: 1.5rem;
+	
+	align-text: center;
+	
+	color: red;
+	
+}
+
+a:hover {
+	background-color: blue;
+	
+	color: white;
+	
+}
+
+#bimg {
+	
+		width: 100%;
+	
+	height: 150vh;
+	background-image: url("ttt.jpg"); 
+	background-size: cover;
+	background-attachment: fixed;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+	
+	
+	font-size: 9px;
+	color: white;
+}
+
+p {
+		font-size: 1em;
+	color: white;
+	
+}
+
+
+#con {
+	
+	
+	width: 100%;
+	
+	height: 60vh;
+	
+/*	border: 3px solid red; */
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+h3 {
+	
+	font-size: 2rem;
+	color: blue;
+	
+}
+h3:hover {
+
+	color: red;
+
+
+}
+
+
+
+
+#con2 {
+	
+	
+	width: 100%;
+	
+	height: 20vh;
+	
+/*	border: 3px solid red; */
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+	flex-direction: column;
+}
+
+
+#vv {
+	
+	width: 60%;
+	
+	height: 10vh;
+	
+}
+button {
+	
+	width: 150px;
+	height: 20px;
+	background-color: red;
+}
+
+button:hover {
+	
+	background-color: blue;
+	
+	color: white;
+	
+}
+
+
+
+
+
+
+h4 {
+	
+	
+	font-size: 1rem;
+	
+	color: green;
+	
+	
+	}
+	
+	
+#cco {
+		
+		
+		background-color: #e91e6352;
+	}
+	
+
+
+#rf {
+		width: 100%;
+	
+	height: 80vh;
+	
+/*	border: 3px solid red; */
+		
+}
+
+
+img {
+	
+			width: 250px;
+	
+	height: 20vh;
+	
+	border: 3px solid #eb34c9;	
+}
+
+
+img:hover {
+	
+				width: 280px;
+	
+	height: 30vh;
+	
+/*	border: 3px solid green; */
+	
+}
+
+
+span{
+	
+	vertical-align: 25px;
+	
+	font-size: 6rem;
+	
+}
+
+
+h4:hover {
+	
+	
+	color: blue;
+}
